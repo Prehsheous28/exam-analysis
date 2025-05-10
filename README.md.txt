@@ -31,7 +31,6 @@ This project performs an SQL-based analysis of student exam scores using a datas
 
 ## 🧠 Key Insights (Example Results)
 
-> Replace with actual findings from your SQL output:
 - Students who completed test preparation scored on average **15–20% higher** across all subjects.
 - Female students outperformed male students in Reading and Writing, while males slightly led in Math.
 - Higher parental education levels are associated with better student performance, especially in Writing.
